@@ -69,7 +69,7 @@ Please send a TEXT content!""")
 
 # Getting the token from command-line is better than embedding it in code,
 # because tokens are supposed to be kept secret.
-TOKEN = '175908131:AAFTpbEngPLZvNADpAVELD4lVamHzrMFDHQ'
+TOKEN = '196858157:AAEwHOS5hTgqt1vF9C04B9ma6IXv6dvB0GU'
 
 bot = telepot.Bot(TOKEN)
 bot.message_loop(handle)
